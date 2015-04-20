@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bwcore",
+  "name": "BWCore",
+  "description": "Stuff",
+  "version": "1.7.10-1.o",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chaka"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
